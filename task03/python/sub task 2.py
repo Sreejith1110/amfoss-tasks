@@ -1,6 +1,6 @@
 import csv
 d=[]
-put=input("stuff ")
+put=input("enter the no: ")
 d.append(put)
 with open("/home/sreejith-m/Desktop/program/input.txt","w",newline='') as f:
     write=csv.writer(f)
