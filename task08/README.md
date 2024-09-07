@@ -15,11 +15,11 @@ In this post i am going to describe the way to read images and draw image using 
 
 ## Technical Details
 
-* Install _opencv_,_pillow_,_re_ and _glob_ in a virtual environment to avoid clashes between packages. After installing import each library into _vs code_ using the below codes.
---> Opencv is used to open and read images in this program.It is imported using ___'import cv2'___.
---> Pillow is used to create and draw images in this program. It is imported using ___'from PIL import Image, ImageDraw'___.
---> Re is used to sort the images in ascending order of number in this program. It is imported using ___'import re'___. 
---> Glob is used to read each and every image names in a specific path given to it in this program. It is imported using ___'import glob'___.
+* Install _opencv_,_pillow_,_re_ and _glob_ in a virtual environment to avoid clashes between packages. After installing import each library into _vs code_ using the below codes.<br>
+--> Opencv is used to open and read images in this program.It is imported using ___'import cv2'___.<br>
+--> Pillow is used to create and draw images in this program. It is imported using ___'from PIL import Image, ImageDraw'___.<br>
+--> Re is used to sort the images in ascending order of number in this program. It is imported using ___'import re'___. <br>
+--> Glob is used to read each and every image names in a specific path given to it in this program. It is imported using ___'import glob'___.<br>
 
 __* Step1__: Create a function to sort the image file using _re_ library.
 
