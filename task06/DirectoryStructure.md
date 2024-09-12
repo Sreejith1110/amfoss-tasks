@@ -1,6 +1,7 @@
 # Directory Structure of Flutter Ecommerce App
 
-```.
+```
+.
 ├── android
 │   ├── app
 │   │   ├── build.gradle
