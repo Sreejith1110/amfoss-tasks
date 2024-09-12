@@ -12,19 +12,19 @@ The flutter ecommerce app is a sample or template flutter project. It act as a e
 ### Setup Instruction
 <ul>
   #### 1. Clone the Repository
-  ``` git clone https://github.com/TheAlphamerc/flutter_ecommerce_app.git ```
+  `` git clone https://github.com/TheAlphamerc/flutter_ecommerce_app.git ``
   #### 2. Navigate to the Project Directory
-  ```cd flutter_ecommerce_app```
+  ``cd flutter_ecommerce_app``
   #### 3. Install Flutter SDK
-  ```flutter --version```
+  ``flutter --version``
   #### 4. Install Dependencies
-  ```flutter pub get```
+  ``flutter pub get``
   #### 5. Run the application
-  ```flutter run```
+  ``flutter run``
   #### 6. Explore and Customize
-  ``` lib/```Directory: Contains main Dart code 
-  ``` assets/```Directory: Contains images,fonts and other resources
-  ``` pubspec.yaml```:Manages dependencies and project configuration
+  `` lib/``Directory: Contains main Dart code 
+  `` assets/``Directory: Contains images,fonts and other resources
+  `` pubspec.yaml``:Manages dependencies and project configuration
 </ul>
 ### Contribution Guidelines
 <ul>
