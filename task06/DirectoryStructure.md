@@ -1,6 +1,6 @@
 # Directory Structure of Flutter Ecommerce App
 
-.
+```.
 ├── android
 │   ├── app
 │   │   ├── build.gradle
@@ -127,6 +127,6 @@
 │   ├── screenshot_ios_2.png
 │   └── screenshot_ios_3.png
 └── test
-    └── widget_test.dart
+    └── widget_test.dart```
 
 36 directories, 92 files
