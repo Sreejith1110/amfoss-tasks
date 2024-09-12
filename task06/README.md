@@ -8,7 +8,7 @@ Product listing<br>
 Product sorting
 ### Setup Instruction
 #### 1. Clone the Repository
-``git clone https://github.com/TheAlphamerc/flutter_ecommerce_app.git``
+``` git clone``` https://github.com/TheAlphamerc/flutter_ecommerce_app.git 
 #### 2. Navigate to the Project Directory
 ``cd flutter_ecommerce_app``
 #### 3. Install Flutter SDK
@@ -18,9 +18,9 @@ Product sorting
 #### 5. Run the application
 ``flutter run``
 #### 6. Explore and Customize
-`` lib/``Directory: Contains main Dart code 
-`` assets/``Directory: Contains images,fonts and other resources
-`` pubspec.yaml``:Manages dependencies and project configuration
+`` lib/``Directory: Contains main Dart code <br>
+`` assets/``Directory: Contains images,fonts and other resources<br>
+`` pubspec.yaml``:Manages dependencies and project configuration<br>
 ### Contribution Guidelines
-  **porting Issues**: Please report any issues or bugs using the GitHub Issues tab.
+  **porting Issues**: Please report any issues or bugs using the GitHub Issues tab.<br>
   **Submitting Pull Requests**: Fork the repository, make your changes, and submit a pull request with a description of your changes.
