@@ -6,7 +6,7 @@ The flutter ecommerce app is a sample or template flutter project. It act as a e
 <ol>
   product management
   <ul>
-    Product listing
+    Product listing<br>
     Product sorting
   </ul>
 ### Setup Instruction
