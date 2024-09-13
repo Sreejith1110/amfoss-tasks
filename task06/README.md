@@ -4,14 +4,17 @@
 The flutter ecommerce app is a sample or template flutter project. It act as a example and starting point for those new to the flutter application development. It provides a sample application for online shopping application.
 ### Features
 #### Product management
-<ul>Product listing<br>
-Product sorting<br>
-Search functionality<br></ul>
+<ul>
+ Product listing<br>
+ Product sorting<br>
+ Search functionality<br>
+</ul>
 #### Cart management
-<ul>Cart Item display<br>
-Price calculation<br>
-Adding items to the cart<br>
-Confirmation button<br>
+<ul>
+ Cart Item display<br>
+ Price calculation<br>
+ Adding items to the cart<br>
+ Confirmation button<br>
 </ul>
 
 ### Setup Instruction
