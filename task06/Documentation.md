@@ -33,3 +33,5 @@ You use ``Widget _price()`` function to view the items and its price and ``getPr
 To confirm your purchase uses ``Widget _submitButton(BuildContext context)`` function. It creates a next button to proceed to the next step. In this function, TextButton and TitleText is used to make the conformation button.
 
 
+### main.dart
+It is used to organize and connect multiple components of the application . It structures and beautify the application along with integrating multiple parts of the application using import and widgets and classes.
