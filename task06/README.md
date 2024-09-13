@@ -5,7 +5,13 @@ The flutter ecommerce app is a sample or template flutter project. It act as a e
 ### Features
 #### Product management
 Product listing<br>
-Product sorting
+Product sorting<br>
+Search functionality<br>
+#### Cart management
+Cart Item display<br>
+Price calculation<br>
+Confirmation button<br>
+
 ### Setup Instruction
 #### 1. Clone the Repository
 ``` git clone``` https://github.com/TheAlphamerc/flutter_ecommerce_app.git 
