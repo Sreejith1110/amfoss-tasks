@@ -10,7 +10,8 @@ Search functionality<br>
 #### Cart management
 Cart Item display<br>
 Price calculation<br>
-Confirmation button<br>
+Adding items to the cart<br>
+Confirmation button
 
 ### Setup Instruction
 #### 1. Clone the Repository
