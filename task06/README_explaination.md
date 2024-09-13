@@ -1,0 +1,3 @@
+# Explaination on task 6
+The Task was about flutter ecommerce app which is a open source repository in github. I did the documentation by googling the code in the lib directory which i explained in the documentation.md . The directory structure was done using ``tree -L 5 > DirectoryStructure.md``. The README.md was also done using the support of google for setting up the application.<br>
+The open source repository was a sample flutter application on online shopping apps . All the operation is available in the repo which can be used as an example or starting point for those are making a flutter app for the first time.
