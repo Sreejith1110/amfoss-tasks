@@ -9,6 +9,7 @@ The flutter ecommerce app is a sample or template flutter project. It act as a e
  Product sorting<br>
  Search functionality<br>
 </ul>
+
 #### Cart management
 <ul>
  Cart Item display<br>
