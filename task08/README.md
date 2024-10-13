@@ -107,4 +107,4 @@ It introduces the world of creating , editing and drawing in images using pytho
 
 ## Link to the medium platform post
 
-``https://medium.com/@sreejithmanoj1110/the-way-to-read-and-draw-a-image-using-coordinates-from-multiple-images-using-lines-21ab551e5ee0``
+https://medium.com/@sreejithmanoj1110/the-way-to-read-and-draw-a-image-using-coordinates-from-multiple-images-using-lines-21ab551e5ee0
