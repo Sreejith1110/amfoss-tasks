@@ -104,3 +104,7 @@ __* Step15__: Display the image using *image_name.show()*
 ## Conclusion
 
 It introduces the world of creating , editing and drawing in images using python. Through the opencv and pillow it is possible to do that can be done in a image editor. It also familiarize us to other libraries like re and glob.
+
+## Link to the medium platform post
+
+``https://medium.com/@sreejithmanoj1110/the-way-to-read-and-draw-a-image-using-coordinates-from-multiple-images-using-lines-21ab551e5ee0``
